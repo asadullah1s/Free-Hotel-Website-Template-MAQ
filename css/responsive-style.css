@@ -1,0 +1,130 @@
+@media (max-width: 1199px){
+
+/* header */
+.navbar-expand-lg .navbar-nav{
+	align-items: center;
+
+}
+.header_wapper.navbar-expand-lg .navbar-nav .nav-link{
+	padding: 0;
+	font-size: .875rem;
+
+}
+.main-btn{
+	font-size: .875rem;
+}
+/* booking */
+.booking-area{
+	padding: 3rem .625rem;
+}
+.booking-area .main-btn{
+	padding-left: .3125rem !important;
+	padding-right: .3125rem !important;
+}
+/* Rooms */
+.room-items .room-content{
+  padding: 2rem 1.875rem;
+}
+.room-items .room-content h5{
+  font-size: 1.2rem;
+}
+.room-items .room-content p{
+  font-size: 0.75rem;
+}
+/* Services */
+.services-item-warp .tab-content img{
+	width: 100%;
+}
+.services-menu-area ul li a{
+	margin-bottom:.8125rem;
+	overflow: hidden;
+}
+.services-menu-area ul li:nth-child(1){
+	margin-left: -4.4375rem;
+}
+.services-menu-area ul li:nth-child(2){
+	margin-left: -6.9375rem;
+}
+.services-menu-area ul li:nth-child(3){
+	margin-left: -9.375rem;
+}
+.services-menu-area ul li:nth-child(4){
+	margin-left: -12.825rem;
+}
+
+
+}
+
+@media (max-width: 991px){
+
+/* custom css */
+section{
+	padding: 1.875rem 0;
+}
+/* Navbar */
+.header_scrolled{
+	height: auto;
+}
+.header_wapper .menu-navbar-nav{
+text-align: center;
+padding-bottom: .9375rem ;
+}
+.header_wapper .nav-item .nav-link{
+	margin-top: .9375rem;
+}
+/* banner wapper */
+.banner_wapper{
+	height: 25.635rem;
+}
+.booking-area{
+	padding: 3.12rem 1.87rem;
+}
+/* About */
+.about_warpper{
+	padding-top: 22.375rem;
+}
+/* Rooms */
+.room-items .room-content{
+  padding: 2rem 1.875rem;
+}
+.room-items .room-content h5{
+  font-size: 1.5rem;
+}
+.room-items .room-content p{
+  font-size: 1rem;
+}
+.services-menu-area{
+	padding: 1.5rem 0.5rem;
+}
+.services-menu-area ul li{
+	margin-left: unset !important;
+}
+}
+
+@media (max-width: 767px){
+/* custom css */
+h1{
+	font-size: 1.875rem;
+	line-height: 2.5rem;
+}
+h3{
+	font-size: 1.75rem;
+	line-height: 2.1875rem;
+}
+h5{
+	font-size: 1.25rem;
+}
+p{
+	font-size: .8125rem;
+	line-height: 1,5rem;
+}
+    /* blog */
+    .blog-content {
+        margin: 0;
+    }
+
+    /* footer */
+    .footer_wrapper>div {
+        padding: 0 1.875rem;
+    }
+}
