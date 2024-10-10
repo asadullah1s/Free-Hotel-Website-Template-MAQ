@@ -27,7 +27,7 @@ This one-page website includes the following sections:
 1. **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://github.com/asadullah1s/Free-Hotel-Website-Template-MAQ.git
+    [git clone https://github.com/asadullah1s/Free-Hotel-Website-Template-MAQ.git](https://github.com/asadullah1s/Free-Hotel-Website-Template-MAQ.git)
     ```
 
 2. **Open the index.html** file in your browser to view the website.
